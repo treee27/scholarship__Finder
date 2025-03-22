@@ -1,5 +1,5 @@
 # scholarship__Finder
-# Scholarship Finder
+
 
 **Scholarship Finder** is a web application designed to help students discover and apply for scholarships based on various filters such as type, eligibility, category, gender, and deadlines. Built with HTML, CSS, and JavaScript, it features a responsive design, an interactive chatbot, and social sharing capabilities.
 
